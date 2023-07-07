@@ -1,0 +1,26 @@
+.calendar-container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  margin-top: 50px;
+}
+
+.calendar {
+  width: 400px;
+  margin-right: 20px;
+}
+
+.events {
+  width: 300px;
+}
+
+.event {
+  margin-bottom: 10px;
+}
+
+button {
+  margin-top: 10px;
+}
+h1 {
+  text-align: center;
+}
